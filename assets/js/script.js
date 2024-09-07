@@ -1,1 +1,2 @@
-console.log("Connected!")
+let connectionStatus = "erfolgreich";
+console.log("Verbindungsstatus:", connectionStatus);
